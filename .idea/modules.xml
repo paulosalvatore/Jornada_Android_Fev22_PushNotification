@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Jornada_Android_Fev22_PushNotification.iml" filepath="$PROJECT_DIR$/.idea/modules/Jornada_Android_Fev22_PushNotification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Jornada_Android_Fev22_PushNotification.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Jornada_Android_Fev22_PushNotification.app.iml" />
+    </modules>
+  </component>
+</project>
